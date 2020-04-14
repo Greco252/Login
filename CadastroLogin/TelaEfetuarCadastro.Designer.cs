@@ -78,7 +78,7 @@
             this.txtUsuarioC.Location = new System.Drawing.Point(109, 157);
             this.txtUsuarioC.Name = "txtUsuarioC";
             this.txtUsuarioC.Size = new System.Drawing.Size(100, 13);
-            this.txtUsuarioC.TabIndex = 2;
+            this.txtUsuarioC.TabIndex = 1;
             // 
             // txtSenhaC
             // 
@@ -86,7 +86,7 @@
             this.txtSenhaC.Location = new System.Drawing.Point(109, 206);
             this.txtSenhaC.Name = "txtSenhaC";
             this.txtSenhaC.Size = new System.Drawing.Size(100, 13);
-            this.txtSenhaC.TabIndex = 3;
+            this.txtSenhaC.TabIndex = 2;
             // 
             // txtRepetirSC
             // 
@@ -94,7 +94,7 @@
             this.txtRepetirSC.Location = new System.Drawing.Point(109, 252);
             this.txtRepetirSC.Name = "txtRepetirSC";
             this.txtRepetirSC.Size = new System.Drawing.Size(100, 13);
-            this.txtRepetirSC.TabIndex = 5;
+            this.txtRepetirSC.TabIndex = 3;
             // 
             // lblRepetirS
             // 
